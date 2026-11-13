@@ -1,7 +1,0 @@
-instructions: |
-  yo test
-scripts:
-  - name: safe-step
-    command: echo "hi"
-    triggers:
-      - session.create
